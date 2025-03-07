@@ -16,5 +16,4 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
-http://live.wzrtv.cn/xwzh1/playlist.m3u8
-http://live.wzrtv.cn/jysh1/playlist.m3u8
+https://freetv.fun/test_channels_new.m3u
